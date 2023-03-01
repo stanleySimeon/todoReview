@@ -30,10 +30,16 @@ Additional description about the project and its features.
 run `python -m http:server` or `npm install -g live-server` after run `live-server`
 
 
-👤 **Author**
+👤 **Stanley Simeon**
 - Stanley SIMEON
 - GitHub: [https://github.com/stanleySimeon]
 - LinkedIn: [https://www.linkedin.com/in/stanleySimeon-881091224/]
+
+👤 **Moise Mulungu**
+- GitHub: [@moise-mulungu](https://github.com/moise-mulungu)
+- Twitter: [@moise_mulungu](https://twitter.com/moise_mulungu)
+- LinkedIn: [Moïse (Musa) Mulungu](https://www.linkedin.com/in/moisemulungu/)
+
 
 ## 🤝 Contributing
 
